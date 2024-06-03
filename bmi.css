@@ -1,0 +1,57 @@
+
+form{
+    background-color: #212121;
+    padding: 25px;
+    border-radius: 12px;
+    width: 350px;
+    margin: auto;
+    margin-top:30px;
+
+}
+
+p {
+    color: white;
+}
+
+label{
+    color: skyblue;
+    font-size: 35px;
+}
+
+h3 {
+    color: lightcoral;
+}
+
+.calc-button{
+    background-color: skyblue;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 6px;
+    color: darkblue;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 35px;
+    margin-left: 110px;
+    cursor: pointer;
+}
+
+input{
+    background-color: rgb(255, 253, 253);
+    height: 35px;
+    width: 100%;
+    border: none;
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.result{
+    color: white;
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+body{
+    background-color: #000000;
+}
+
